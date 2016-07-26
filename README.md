@@ -1,0 +1,4 @@
+# Apresentação do Portal em Construção
+
+O Portal Mulheres em Rede, Compartilhando Saberes é uma resposta da ASPLANDE aos desafios colocados pelas novas tecnologias. Cada vez mais aumenta o número de empreendedoras conectadas a internet que participam&nbsp;e protagonizam o Programa ASPLANDE Rede Cooperativa de Mulheres Empreendedoras da Região Metropolitana do Rio de Janeiro. Das cerca de 800 empreendedoras atendidas, mais 90% participam de algum tipo de rede social. Assim, criar um ambiente de formação, assessoria e troca virtual que promova o encontro criativo&nbsp;entre as empreendedoras, motivou o nascimento do do portal.<br>
+O Portal Mulheres em Rede, Compartilhando Saberes,&nbsp;está sendo&nbsp;construído&nbsp;pela UERJ, através do Instituto de Matemática e Estatística, sob a Coordenação do Laboratório de Estudos sobre Gestão da Inovação.

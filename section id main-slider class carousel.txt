@@ -1,0 +1,59 @@
+<section id="main-slider" class="carousel">
+    <div class="carousel-inner">
+        <div class="item active">
+            <div class="container">
+                <div class="carousel-content">
+                    <h1>Texto do Primeiro Slide</h1>
+                    <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit amet bibendum risus. Fusce ultrices.<br>Aliquam erat volutpat. Interdum et.</p>
+                </div>
+            </div>
+        </div><!--/.item-->
+        <div class="item">
+            <div class="container">
+                <div class="carousel-content">
+                    <h1>Texto do Segundo Slide</h1>
+                    <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit amet bibendum risus. Fusce ultrices.<br>Class aptent taciti sociosqu ad litora torquent.</p>
+                </div>
+            </div>
+        </div><!--/.item-->
+        <div class="item">
+            <div class="container">
+                <div class="carousel-content">
+                    <h1>Texto do Terceiro Slide</h1>
+                    <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit amet bibendum risus. Fusce ultrices.<br>In pellentesque ex arcu. Duis accumsan pulvinar magna, sit amet.</p>
+                </div>
+            </div>
+        </div><!--/.item-->
+    </div><!--/.carousel-inner-->
+    <a class="prev" href="#main-slider" data-slide="prev"><i class="icon-angle-left"></i></a>
+    <a class="next" href="#main-slider" data-slide="next"><i class="icon-angle-right"></i></a>
+</section><!--/#main-slider-->
+
+
+
+
+
+
+
+
+
+class="carousel">
+    <div class="carousel-inner">
+        <div class="item">
+            <div class="container"></div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+<div class="row">
+    <div class="col-md-12 col-lg-12 center">
+        <a href="cadastro.php"><button type="button" class="btn btn-primary btn-lg">CADASTRE-SE</button></a>
+        <a href="login.php"><button type="button" class="btn btn-success btn-lg">LOGIN</button></a>
+    </div>
+</div>
+

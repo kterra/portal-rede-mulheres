@@ -1,0 +1,58 @@
+<section id="services">
+    <div class="container">
+        <div class="box first">
+            <div class="row">
+                <div class="col-md-4 col-sm-6">
+                    <div class="center">
+                        <i class="icon-pencil icon-md icon-color4"></i>
+                        <h4>Cursos</h4>
+                        <!-- <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae.</p> -->
+                    </div>
+                </div><!--/.col-md-4-->
+                <div class="col-md-4 col-sm-6">
+                    <div class="center">
+                        <i class="icon-star icon-md icon-color4"></i>
+                        <h4>Palestras</h4>
+                        <!-- <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae.</p> -->
+                    </div>
+                </div><!--/.col-md-4-->
+                <div class="col-md-4 col-sm-6">
+                    <div class="center">
+                        <i class="icon-calendar icon-md icon-color4"></i>
+                        <h4>Calend&aacute;rio</h4>
+                        <!-- <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae.</p> -->
+                    </div>
+                </div><!--/.col-md-4-->
+                <div class="col-md-4 col-sm-6">
+                    <div class="center">
+                        <i class="icon-book icon-md icon-color4"></i>
+                        <h4>Bibliotecas</h4>
+                        <!-- <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae.</p> -->
+                    </div>
+                </div><!--/.col-md-4-->
+                <div class="col-md-4 col-sm-6">
+                    <div class="center">
+                        <i class="icon-comment icon-md icon-color4"></i>
+                        <h4>F&oacute;rum</h4>
+                        <!-- <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae.</p> -->
+                    </div>
+                </div><!--/.col-md-4-->
+                <div class="col-md-4 col-sm-6">
+                    <div class="center">
+                        <i class="icon-thumbs-up icon-md icon-color4"></i>
+                        <h4>Links &Uacute;teis</h4>
+                        <!-- <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae.</p> -->
+                    </div>
+                </div><!--/.col-md-4-->
+            </div><!--/.row-->
+            <div class="row">
+                <div class="col-md-12 col-lg-12 center">
+                    <div class="btn-group" role="group">
+                        <a href="http://moodle.cempre.ime.uerj.br/login/signup.php?" target="_blank"><button type="button" class="btn btn-primary btn-lg">CADASTRE-SE</button></a>
+                        <a href="http://moodle.cempre.ime.uerj.br/login/index.php" target="_blank"><button type="button" class="btn btn-success btn-lg">FAZER LOGIN</button></a>
+                    </div>
+                </div>
+            </div>
+        </div><!--/.box-->
+    </div><!--/.container-->
+</section><!--/#services-->
